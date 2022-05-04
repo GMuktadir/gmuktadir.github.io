@@ -1,7 +1,7 @@
 title: Welcome Golam Muktadir 
 description: This is Golam Muktadir's  personal Web site and CV and Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "gmuktadir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    MD.GOLAM MUKTADIR
